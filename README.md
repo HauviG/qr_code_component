@@ -34,7 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://hauvig.github.io/qr_code_component/)
+- Solution URL: [https://hauvig.github.io/qr_code_component/](https://hauvig.github.io/qr_code_component/)
 
 ## My process
 
